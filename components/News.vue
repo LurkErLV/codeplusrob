@@ -122,6 +122,7 @@
   .cards {
     .card {
       width: calc(100% - 50px);
+      padding: 25px 0 0;
     }
   }
 }

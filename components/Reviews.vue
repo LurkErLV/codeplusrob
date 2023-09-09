@@ -3,13 +3,13 @@
     <div class="reviews">
       <div id="content" class="reviews__items">
         <div class="reviews__items__item">
-          <img alt="" src="~/public/assets/images/card.jpg">
+          <img alt="" src="https://placehold.co/600x400/EEE/31343C">
         </div>
         <div class="reviews__items__item">
-          <img alt="" src="~/public/assets/images/card.jpg">
+          <img alt="" src="https://placehold.co/600x400/EEE/31343C">
         </div>
         <div class="reviews__items__item">
-          <img alt="" src="~/public/assets/images/card.jpg">
+          <img alt="" src="https://placehold.co/600x400/EEE/31343C">
         </div>
       </div>
     </div>
